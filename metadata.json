@@ -1,0 +1,7 @@
+{
+  "name": "FamilyFlow",
+  "description": "A comprehensive family management PWA for tracking child development, health, finances, and daily planning. Includes AI-powered parenting insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Meta FamilyFlow",
+  "short_name": "MetaFlow",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#4F46E5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='120' fill='url(%23g)'/%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%234F46E5'/%3E%3Cstop offset='100%25' stop-color='%23E11D48'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath d='M256 352C256 352 160 256 160 192C160 156.654 188.654 128 224 128C241.673 128 256 138.673 256 149.346C256 138.673 270.327 128 288 128C323.346 128 352 156.654 352 192C352 256 256 352 256 352Z' fill='white' opacity='0.2'/%3E%3Cpath d='M130 360L130 160L256 280L382 160L382 360' stroke='white' stroke-width='40' stroke-linecap='round' stroke-linejoin='round' fill='none'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='120' fill='url(%23g)'/%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%234F46E5'/%3E%3Cstop offset='100%25' stop-color='%23E11D48'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath d='M256 352C256 352 160 256 160 192C160 156.654 188.654 128 224 128C241.673 128 256 138.673 256 149.346C256 138.673 270.327 128 288 128C323.346 128 352 156.654 352 192C352 256 256 352 256 352Z' fill='white' opacity='0.2'/%3E%3Cpath d='M130 360L130 160L256 280L382 160L382 360' stroke='white' stroke-width='40' stroke-linecap='round' stroke-linejoin='round' fill='none'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
